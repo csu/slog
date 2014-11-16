@@ -3,4 +3,4 @@ highlighter: pygments
 url: http://christopher.su/slog
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
-permalink: none
+permalink: /:categories/:title/
