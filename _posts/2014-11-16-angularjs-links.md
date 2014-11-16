@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AngularJS Resources
+title: AngularJS Links
 categories:
 - angularjs
 ---
