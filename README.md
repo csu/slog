@@ -1,0 +1,4 @@
+slog
+====
+
+A short blog.
