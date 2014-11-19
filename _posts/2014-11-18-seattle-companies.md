@@ -21,5 +21,6 @@ A list of Seattle companies and startups.
 * Omni Group
 * Code.org
 * Glympse
+* Qumulo
 * Starbucks
 * Nordstrom
