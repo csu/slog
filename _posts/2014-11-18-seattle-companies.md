@@ -3,7 +3,6 @@ layout: post
 title: Seattle Companies
 categories:
 - seattle
-- startups
 ---
 
 A list of Seattle companies and startups.
