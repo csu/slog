@@ -8,6 +8,8 @@ categories:
 
 A list of Seattle companies and startups.
 
+* Microsoft
+* Amazon
 * Redfin
 * Zillow
 * ExtraHop
@@ -20,3 +22,5 @@ A list of Seattle companies and startups.
 * Omni Group
 * Code.org
 * Glympse
+* Starbucks
+* Nordstrom
